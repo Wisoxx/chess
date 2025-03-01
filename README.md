@@ -16,7 +16,7 @@ This project is a command-line interface (CLI) chess game implemented in C++. It
 - Simple command-based controls:
     - `exit` - Quit the game
     - `swap` - Rotate the board
-    - Move a piece using standard chess notation (e.g., `c2-c4`)
+    - Move a piece using coordinate chess notation (specifying only start and end square e.g., `c2-c4`)
 
 ## Project Structure
 ### Object-Oriented Design:
